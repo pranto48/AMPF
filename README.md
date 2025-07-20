@@ -18,10 +18,10 @@ This repository contains a basic command-line interface (CLI) tool for setting u
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YOUR_GITHUB_USERNAME/AMPF-CLI.git
+    git clone https://github.com/pranto48/AMPF.git
     cd AMPF-CLI
     ```
-    *(Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username)*
+    *(Replace `pranto48` with your actual GitHub username)*
 
 2.  **Install dependencies:**
     ```bash
